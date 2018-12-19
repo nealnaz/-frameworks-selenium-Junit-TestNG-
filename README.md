@@ -1,2 +1,2 @@
-# cucumber
+# selenium
 TestNG and Junit with selenium
